@@ -9,6 +9,7 @@ Diagram:
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-1.9.jpg)
 
 TTGO code is here: 
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T_Embed.zip
 
 
 
