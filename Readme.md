@@ -5,7 +5,8 @@ SW MW LW and FM Radio
 ### Photos
 ![Photo 0]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO--1.9.jpg)
 ### "Example firmware"
-Diagram: https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-1.9.jpg
+Diagram: 
+![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-1.9.jpg)
 
 TTGO code is here: 
 
