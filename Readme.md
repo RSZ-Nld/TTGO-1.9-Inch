@@ -9,7 +9,6 @@ Diagram: https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-1.9.jpg
 TTGO code is here: 
 
 
-How to flash the Bin file:  https://github.com/RSZ-Nld/TTGO/blob/main/TTGO-bin.doc
 
 
 Gerbers are here:  
