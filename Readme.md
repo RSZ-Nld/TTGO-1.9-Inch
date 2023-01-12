@@ -4,7 +4,7 @@ Sketch from Ricardo Caritti
 SW MW LW and FM Radio 
 ### Photos
 ### "Example firmware"
-Diagram: 
+Diagram: https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-1.9.jpg
 
 TTGO code is here: 
 
