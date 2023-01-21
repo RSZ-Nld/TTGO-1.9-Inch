@@ -4,6 +4,7 @@ Sketch from Ricardo Caritti
 SW MW LW and FM Radio 
 ### Photos
 ![Photo 0]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-1.jpg)
+![Photo 1]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-2.jpg)
 ### "Example firmware"
 Diagram: 
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-1.9.jpg)
