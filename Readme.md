@@ -6,6 +6,8 @@ SW MW LW and FM Radio
 ![Photo 0]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-1.jpg)
 ![Photo 1]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-2.jpg)
 ![Photo 2]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb.JPG)
+Video:
+https://youtu.be/S8R6GBuiJsc
 
 Diagram: 
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-1.9.jpg)
