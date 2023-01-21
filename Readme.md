@@ -24,4 +24,5 @@ How to flash:
 
 
 Gerbers are here:  
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Gerber.zip
 
