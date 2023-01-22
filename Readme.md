@@ -16,6 +16,9 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Parts.txt
 
 TTGO code is here: 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T_Embed.ino.zip
+or new one from Ralph, mod for this board:
+ALL_IN_ONE_T-Display_S3.ino.bin
+
 
 Flash Program:
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/flash_download_tool_3.9.3.zip
