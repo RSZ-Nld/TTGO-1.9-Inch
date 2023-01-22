@@ -11,6 +11,9 @@ Video https://youtu.be/S8R6GBuiJsc
 Diagram: 
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-1.9.jpg)
 
+Parts:
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Parts.txt
+
 TTGO code is here: 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T_Embed.ino.zip
 
