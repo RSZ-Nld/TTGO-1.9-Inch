@@ -1,0 +1,28 @@
+Parts for TTGO ESP32S3 1.9 Inch Reciever
+
+1x	TTGO ESP32S3 1.9 Inch
+2x	SMA con Pcb
+1x	Encoder with switch
+1x	Stereo 3.5mm earphone pcb connector
+
+Smd Resistors
+2x	4K7	0805
+
+Smd Caps
+1x	470nF	0805
+2x 	100nF 0805
+1x	22nF	0805
+1x	1nF	0805
+2x	15pF	0805
+
+Smd Caps elco
+1x	47uF/16V	1206
+2x	4u7/ 16V	1206
+
+Xtal
+1x	32.768 kc small tube model	
+
+Ic
+1x	Si4735-D60
+1x	AMS1117- 5V
+
