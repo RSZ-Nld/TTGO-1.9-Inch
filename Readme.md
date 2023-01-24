@@ -23,7 +23,12 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T_Embed.ino.zip
 
 Or the new one from Ralph, adapted for this board:
 
-https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3.ino.zip
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Normal-Ralph.zip
+
+Or Reverse Encoder
+
+
+
 
 
 Flash Program:
