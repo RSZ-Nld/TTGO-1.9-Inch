@@ -21,7 +21,7 @@ Parts:
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Parts.txt
 
-TTGO code is here: 
+TTGO Ricardo Caritti version is here: 
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Normal-Ricardo.zip
 
@@ -33,7 +33,7 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Rev-R
 
 
 
-Or the new one from Ralph Xavier, adapted for this board:
+Or the one from Ralph Xavier, adapted for this board:
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Normal-Ralph.zip
 
