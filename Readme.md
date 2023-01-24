@@ -12,7 +12,7 @@ Ricardo Caritti version:
 Video https://youtu.be/S8R6GBuiJsc
 
 Diagram: 
-![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-1.9.jpg)
+![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-4735.jpg)
 
 Parts:
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Parts.txt
