@@ -23,11 +23,13 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Norma
 
 Or Reverse Encoder
 
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Rev-Ricardo.zip
 
 
 
 
-Or the new one from Ralph, adapted for this board:
+
+Or the new one from Ralph Xavier, adapted for this board:
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Normal-Ralph.zip
 
