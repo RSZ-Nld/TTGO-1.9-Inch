@@ -27,6 +27,8 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Norma
 
 Or Reverse Encoder
 
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Rev-Ralph.zip
+
 
 
 
