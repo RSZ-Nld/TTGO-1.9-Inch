@@ -15,6 +15,7 @@ Diagram:
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-4735.jpg)
 
 Parts:
+
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Parts.txt
 
 TTGO code is here: 
