@@ -19,7 +19,13 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Parts.txt
 
 TTGO code is here: 
 
-https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T_Embed.ino.zip
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Normal-Ricardo.zip
+
+Or Reverse Encoder
+
+
+
+
 
 Or the new one from Ralph, adapted for this board:
 
