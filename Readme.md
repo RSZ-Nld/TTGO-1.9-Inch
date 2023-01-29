@@ -65,7 +65,9 @@ Then select the bin file you use and fill in the adress :  @10000 then select co
 
 
 Gerbers are here:  
+
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Gerber.zip
 
 You can buy TTGO 1.9 Inch here:
+
 http://www.lilygo.cn/prod_view.aspx?TypeId=50062&Id=1411&FId=t3:50062:3
