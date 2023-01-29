@@ -55,7 +55,8 @@ First download Flashtools 3.93 open it and you get this screen, put in ESP32S3 a
 
 ![Photo 11]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Flash-Prog.jpg)
 
-Then 
+Then select the bin file you use and fill in the adress :  @10000 then selct com port and Flash!
+
 ![Photo 12]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Flash-File.jpg)
 
 
