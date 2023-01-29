@@ -51,9 +51,11 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/flash_download_tool_3.9.3.zip
 
 How to flash:
 
-First download Flashtools 3.93 open it and you get this screen, put in ESP32S3 and develope
+First download Flashtools 3.93 open it and you get this screen, put in ESP32S3 and develop and USB
 
 ![Photo 11]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Flash-Prog.jpg)
+
+Then 
 ![Photo 12]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Flash-File.jpg)
 
 
