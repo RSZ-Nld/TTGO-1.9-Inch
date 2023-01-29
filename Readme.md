@@ -51,6 +51,8 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/flash_download_tool_3.9.3.zip
 
 How to flash:
 
+First download Flashtools 3.93 open it and you get this screen, put is adressx1000
+
 ![Photo 11]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Flash-Prog.jpg)
 ![Photo 12]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Flash-File.jpg)
 
