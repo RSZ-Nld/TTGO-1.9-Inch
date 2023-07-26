@@ -70,4 +70,4 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Gerber.zip
 
 You can buy TTGO 1.9 Inch here:
 
-http://www.lilygo.cn/prod_view.aspx?TypeId=50062&Id=1411&FId=t3:50062:3
+https://www.lilygo.cc/products/t-display-s3
