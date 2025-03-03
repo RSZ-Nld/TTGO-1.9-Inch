@@ -5,7 +5,7 @@ SW MW LW and FM Radio
 ### Photos
 
 New firmware 03-2025:
-![Photo 21]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-1.jpg)
+![Photo 21]([ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/1.jpg)
 
 ![Photo 22]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-1.jpg)
 
