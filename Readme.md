@@ -13,7 +13,7 @@ New firmware 03-2025:
 
 How to upload:
 
-![Photo 24]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/3.jpg)
+![Photo 24]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/AmsvVilC8sWVPCLm.png)
 
 Ralph Xavier version adapted for this board  (2023):
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Ralph-Version.jpg)
