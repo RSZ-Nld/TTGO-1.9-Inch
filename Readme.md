@@ -11,7 +11,11 @@ New firmware 03-2025:
 
 ![Photo 23]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/3.jpg)
 
-Ralph Xavier version adapted for this board:
+How to upload:
+
+![Photo 24]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/3.jpg)
+
+Ralph Xavier version adapted for this board  (2023):
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Ralph-Version.jpg)
 Ricardo Caritti version:
 ![Photo 0]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-1.jpg)
