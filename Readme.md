@@ -18,6 +18,13 @@ How to upload:
 
 ![Photo 24]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/AmsvVilC8sWVPCLm.png)
 
+used files:
+
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ATS_MINI_v0_30_8M.zip
+
+And the FlashTool:
+
+
 Ralph Xavier version adapted for this board  (2023):
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Ralph-Version.jpg)
 Ricardo Caritti version:
