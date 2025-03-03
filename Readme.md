@@ -13,6 +13,9 @@ New firmware 03-2025:
 
 How to upload:
 
+![Photo 24]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Flash-Esp32-S3.png)
+
+
 ![Photo 24]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/AmsvVilC8sWVPCLm.png)
 
 Ralph Xavier version adapted for this board  (2023):
