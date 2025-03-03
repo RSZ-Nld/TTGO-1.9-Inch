@@ -3,6 +3,14 @@ Made a own pcb with si4735 and TTGO-1.9 Inch esp32s3.
 Sketch from Ricardo Caritti and Ralph Xavier
 SW MW LW and FM Radio 
 ### Photos
+
+New firmware 03-2025:
+![Photo 21]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-1.jpg)
+
+![Photo 22]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-1.jpg)
+
+![Photo 23]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-1.jpg)
+
 Ralph Xavier version adapted for this board:
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Ralph-Version.jpg)
 Ricardo Caritti version:
