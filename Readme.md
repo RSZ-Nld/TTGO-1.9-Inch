@@ -24,6 +24,7 @@ https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ATS_MINI_v0_30_8M.zip
 
 And the FlashTool:
 
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/flash_download_tool.zip
 
 Ralph Xavier version adapted for this board  (2023):
 ![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Ralph-Version.jpg)
