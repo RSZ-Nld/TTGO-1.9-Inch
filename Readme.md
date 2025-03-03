@@ -4,7 +4,8 @@ Sketch from Ricardo Caritti and Ralph Xavier
 SW MW LW and FM Radio 
 ### Photos
 
-New firmware 03-2025 from:   G8PTN:
+New firmware 03-2025 from:   G8PTN
+:
 ![Photo 21]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/1.jpg)
 
 ![Photo 22]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/2.jpg)
@@ -21,6 +22,9 @@ How to upload:
 used files from G8PTN:
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ATS_MINI_v0_30_8M.zip
+
+Github from G8PTN:  you can find it all here: 
+https://github.com/G8PTN/ATS_MINI/blob/main/README.md
 
 And the FlashTool:
 
