@@ -24,7 +24,7 @@ How to upload:
 
 used files from G8PTN:
 
-https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ATS_MINI_v0_30_8M.zip
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ATS_MINI_v1_01_8M.zip
 
 Github from G8PTN:  you can find it all here: 
 https://github.com/G8PTN/ATS_MINI/blob/main/README.md
