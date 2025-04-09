@@ -19,16 +19,22 @@ How to upload:
 
 ![Photo 24]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Flash-Esp32-S3.png)
 
+![Photo 24]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/AmsvVilC8sWVPCLm.png)
+
 And with the web server:
 
 ![Photo 29]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/chMNqI65oawRN4PF.png)
 
 
-![Photo 24]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/AmsvVilC8sWVPCLm.png)
+
 
 used files from G8PTN:
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ATS_MINI_v1_01_8M.zip
+
+And the web server file:
+
+https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Program_Files_8M-Web.zip
 
 Github from G8PTN:  you can find it all here: 
 https://github.com/G8PTN/ATS_MINI/blob/main/README.md
