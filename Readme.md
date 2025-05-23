@@ -8,6 +8,9 @@ New firmware from Max-Arnold May 2025 with Pi RDS and Wifi connection.
 
 ![Photo 19](https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/20250523_114144.jpg) 
 
+All the files can be found on Facebook:
+https://www.facebook.com/groups/629443686140117/files/files
+
 New firmware 03-2025 from:  Dave G8PTN
 :
 ![Photo 21]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/1.jpg)
