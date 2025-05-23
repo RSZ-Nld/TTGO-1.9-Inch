@@ -4,7 +4,8 @@ Sketch from Ricardo Caritti and Ralph Xavier
 SW MW LW and FM Radio 
 ### Photos
 
-New firmware from Max-Arnold May 2025
+New firmware from Max-Arnold May 2025 with Pi RDS and Wifi connection.
+
 ![Photo 19](https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/20250523_114144.jpg) 
 
 New firmware 03-2025 from:  Dave G8PTN
