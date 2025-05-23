@@ -4,6 +4,9 @@ Sketch from Ricardo Caritti and Ralph Xavier
 SW MW LW and FM Radio 
 ### Photos
 
+New firmware from Max-Arnold May 2025
+![Photo 19](https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/20250523_114144.jpg) 
+
 New firmware 03-2025 from:  Dave G8PTN
 :
 ![Photo 21]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/1.jpg)
