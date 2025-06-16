@@ -6,6 +6,8 @@ SW MW LW and FM Radio
 
 New firmware from Max-Arnold May 2025 with Pi RDS and Wifi connection.
 
+![Photo 01](https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/4.jpg)
+
 ![Photo 19](https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/20250523_114144.jpg) 
 
 All the files can be found on Facebook:
